@@ -136,8 +136,6 @@ PRODUCT_PACKAGES += \
 # Custom Lineage packages
 PRODUCT_PACKAGES += \
     LineageSettingsProvider \
-    LineageSetupWizard \
-    Updater
 
 # Extra tools in Lineage
 PRODUCT_PACKAGES += \
